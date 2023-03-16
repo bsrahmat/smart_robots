@@ -10,7 +10,7 @@
 </br>
 
 
-## Other publications by the Researcher:
+## Publications by the Researcher:
 
 https://fitri.academia.edu/BasukiRahmat
 
