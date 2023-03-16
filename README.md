@@ -11,13 +11,10 @@
 
 ## See examples of robot videos:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4)
+[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://youtu.be/s7ptLZs9MbE)
 
-<video controls>
-    <source src="https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4" type="video/webm" />
-    Browsermu tidak mendukung tag ini, upgrade donk!
-  </video>
-  
+
+
 
 ## Publications by The Researcher:
 
