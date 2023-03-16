@@ -11,13 +11,13 @@
 
 ## See examples of robot videos:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://youtu.be/vt5fpE0bzS)
+[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4)
 
-use Embera\Embera;
-
-$embera = new Embera();
-echo $embera->autoEmbed('Hi! Have you seen this video? https://www.youtube.com/watch?v=J---aiyznGQ Its the best!');
-
+<video controls>
+    <source src="https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4" type="video/webm" />
+    Browsermu tidak mendukung tag ini, upgrade donk!
+  </video>
+  
 
 ## Publications by The Researcher:
 
