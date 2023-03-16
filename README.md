@@ -13,6 +13,10 @@
 
 [![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://youtu.be/s7ptLZs9MbE)
 
+[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2a.jpg)](https://youtu.be/FO0yXKBMIRo)
+
+[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot3a.jpg)](https://youtu.be/oXT61djHDEA)
+
 
 
 
