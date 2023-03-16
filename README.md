@@ -1,5 +1,9 @@
 # smart_robots
 
+Smart Robot equipped with software for object recognition with Deep Learning in real time. Combined Python and Arduino Programming Languages via serial communication. Robot Package does not include Laptop.
+
+<br>
+</br>
 
 
 <p align="center">
