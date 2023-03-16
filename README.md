@@ -11,7 +11,7 @@
 
 ## See examples of robot videos:
 
-[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot1.jpg)](https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4)
+[![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4)
 
 ## Publications by The Researcher:
 
