@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/bsrahmat/smart_robots/blob/main/robot1.mp4" alt="" class="img-responsive" width="700">
+  <img src="https://github.com/bsrahmat/smart_robots/blob/main/robot1.jpg" alt="" class="img-responsive" width="700">
 </p>
 
 <br>
