@@ -10,7 +10,7 @@
 </br>
 
 
-## Publications by the Researcher:
+## Publications by The Researcher:
 
 https://fitri.academia.edu/BasukiRahmat
 
@@ -22,7 +22,7 @@ https://scholar.google.com/citations?user=BjCi4AgAAAAJ&hl=en
 </br>
 
 
-## Other research by Researchers can be found at:
+## Other research by The Researchers can be found at:
 
 https://www.io-t.net/
 
