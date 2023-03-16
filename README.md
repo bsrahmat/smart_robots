@@ -13,6 +13,8 @@
 
 [![Watch the video](https://github.com/bsrahmat/smart_robots/blob/main/robot2.jpg)](https://youtu.be/vt5fpE0bzS)
 
+use Embera\Embera;
+
 $embera = new Embera();
 echo $embera->autoEmbed('Hi! Have you seen this video? https://www.youtube.com/watch?v=J---aiyznGQ Its the best!');
 
