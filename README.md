@@ -51,7 +51,7 @@ https://www.io-t.net/
 <br>
 </br>
 
-## Other research by Researchers can be found also at:
+## Other research by The Researchers can be found also at:
 
 http://www.i-ot.net/
 
