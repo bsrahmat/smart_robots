@@ -48,4 +48,14 @@ https://www.io-t.net/
 </p>
 
 
+<br>
+</br>
 
+## Other research by Researchers can be found also at:
+
+http://www.i-ot.net/
+
+<p align="center">
+<a href="http://www.i-ot.net/" target="_blank"><img src="https://github.com/bsrahmat/fuzzy-neural/blob/main/iot_logo.png" alt="" class="img-responsive" width="500">
+</a>
+</p>
